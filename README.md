@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miqayel Galstyan
 ========================================================================================================================================
 
-Front-End Engineer
+Software Engineer
 ------------------
 
-I am a Front-End Engineer with over 5 years of proven experience. I am driven and proactive, always willing to take on new challenges and tasks. I excel in delivering high-quality work, consistently meeting objectives with a responsible and hardworking approach.
+I am a Software Engineer with over 5 years of proven experience. I am driven and proactive, always willing to take on new challenges and tasks. I excel in delivering high-quality work, consistently meeting objectives with a responsible and hardworking approach.
 
 * 🌍  I'm based in Yerevan, Armenia
 * 🧠  I'm learning .Net framework
