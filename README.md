@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ------------------
 
-I am a Software Engineer with over 5 years of proven experience. I am driven and proactive, always willing to take on new challenges and tasks. I excel in delivering high-quality work, consistently meeting objectives with a responsible and hardworking approach.
+I am a Software Engineer with over 6 years of proven experience. I am driven and proactive, always willing to take on new challenges and tasks. I excel in delivering high-quality work, consistently meeting objectives with a responsible and hardworking approach.
 
 * 🌍  I'm based in Yerevan, Armenia
 * 🧠  I'm learning .Net framework
